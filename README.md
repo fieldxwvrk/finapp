@@ -1,4 +1,4 @@
-In the project directory, you can run:
+Use App: 
 
 ### `npm start`
 
